@@ -76,10 +76,10 @@ public class embedding {
 	    //System.out.println(xqFloatList);
 		
 		///////////
-		String apiKey = "106018db-f9fb-4675-8bb1-3c3cfcecfc7c";
-        String indexName = "semantic-search-openai";
-        String environment = "gcp-starter";
-        String projectName = "a1b00f5";
+		String apiKey = "";
+        String indexName = "";
+        String environment = "";
+        String projectName = "";
         String namespace = "embedded";
         int topK = 1;
         
