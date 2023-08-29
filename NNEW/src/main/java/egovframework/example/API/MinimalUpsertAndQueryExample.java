@@ -23,8 +23,8 @@ public class MinimalUpsertAndQueryExample {
         String namespace = "test-ns";
         int topK = 1;
         
-//        public String apiKey = "106018db-f9fb-4675-8bb1-3c3cfcecfc7c";
-//        String indexName = "semantic-search-openai";
+//        public String apiKey = "";
+//        String indexName = "";
 //        String environment = "gcp-starter";
 //        String projectName = "Embedding Project";
 //        String namespace = "test-ns";
